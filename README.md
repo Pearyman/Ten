@@ -1,0 +1,2 @@
+# Ten
+A Hexo theme
